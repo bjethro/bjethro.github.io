@@ -3,9 +3,9 @@
     "name": "Jetro Butac",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/jetro.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "jetro@hawaii.edu",
+    "phone": "808-266-0833",
+    "website": "https://bjethro.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -24,22 +24,12 @@
         "network": "linkedin",
         "username": "jetrobutac",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "hoooraahjethro",
-        "url": "http://instagram.com/hooraahjethro"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
