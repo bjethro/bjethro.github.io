@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/urinal.jpg
 title: peeH
 permalink: projects/peeH
 # All dates must be YYYY-MM-DD format!
