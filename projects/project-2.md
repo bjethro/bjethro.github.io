@@ -13,8 +13,6 @@ labels:
 summary: An emergency app for Hawaii to inform and educated individuals when disaster occurs.
 ---
 
-<img class="ui large right floated rounded image" src="../images/HEPA.png">
-
 	Our project’s purpose came from the idea of recent events that happened around Hawaii. We experienced numerous threats from nuclear bombings to hurricanes. Our knowledge on how to prepare with these kinds of disaster are limited as we don’t experience these events enough. We came to an idea on creating an app that will inform the public about preparing for these disasters. This project includes a list of items based on 14-day kit that Federal Emergency Management Agency (FEMA) has provided. Also, this include a tool to gauge whether you are in the Tsunami Zone and safe zones, and hotlines that you may need just in case of an emergency. Our team consisted of two members, Japhet Ye and Marie Calamasa.  This project is done in Android Studio and GitHub as a mean of version control.
 	
 <img class="ui large right floated rounded image" src="../images/HEPA.png">
