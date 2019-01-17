@@ -21,7 +21,7 @@ Hydration isn't as much advertised around the world. Being hydrated is a key of 
 For this project, I was the lead programmer which job was to program the system both in Arduino and MITAppInventor. To begin coding, I had to learn how to code with Arduino and how MITAppInventor works with Arduino. From there, I started researching how a pH sensor works with Arduino and how to code it in order to be calibrated so it senses the right values based on the liquid that was exposed to it. After the coding for the Arduino was done, I hopped to MITInventor to create a simple app that will tell the user their dehydration levels based on their urine. We tested these levels with different types of liqiud that would represent a bad pH levels (liqiuid detergent being the low pH and sprite for high pH). This communication was possible with the help of a bluetooth device that was attached to the Arduino Board that would relay the message to the Andriod Device. 
 
 <img class="ui medium right floated rounded image" src="../images/mitappinv.png">
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how we read values from the pH sensor:
 
 <img class="ui medium left floated rounded image" src="../images/code.png">
 
