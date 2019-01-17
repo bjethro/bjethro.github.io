@@ -5,7 +5,7 @@ image: images/hawaii.jpg
 title: Hawaii Emergency Preparedness App
 permalink: projects/HEPA
 # All dates must be YYYY-MM-DD format!
-date: 2019
+date: 2019-06-09
 labels:
   - Java
   - Andriod Studio
