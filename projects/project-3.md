@@ -9,7 +9,7 @@ date: 2014-04-12
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: end my life.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
