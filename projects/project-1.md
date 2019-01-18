@@ -23,7 +23,7 @@ For this project, I was the lead programmer which job was to program the system 
 
 Here is some code that illustrates how we read values from the pH sensor:
 <img class="ui medium right floated rounded image" src="../images/mitappinv.png">
-<img class="ui large left floated rounded image" src="../images/code.png">
+<img class="ui medium left floated rounded image" src="../images/code.png">
 
 
 
