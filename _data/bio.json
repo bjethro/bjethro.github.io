@@ -79,7 +79,7 @@
       ]
     }
   ],
-  "projects": [
+  "project": [
     {
       "name": "OPQ Version 2: An Architecture for Distributed, Real-Time, High Performance Power Data Acquisition, Analysis, and Visualization",
       "type": "conference",
