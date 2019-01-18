@@ -5,7 +5,7 @@ image: images/cotton-square.png
 title: Quiz Game
 permalink: projects/QuizGame
 # All dates must be YYYY-MM-DD format!
-date: 2018-5-01
+date: 2018-05-01
 labels:
   - Object Oriented Programming
   - C++
