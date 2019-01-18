@@ -39,7 +39,7 @@ A snipet of our code of displaying our gamescreen:
     
  
 
-<img class="ui small floated squared image" src="../images/gamescreen.jpg">
+<img class="ui large floated squared image" src="../images/gamescreen.jpg">
 
 "gamescreen.jpg"
 
