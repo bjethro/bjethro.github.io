@@ -79,11 +79,11 @@
       ]
     }
   ],
-  "Projects": [
+  "projects": [
     {
-      "title": "Tomatochi",
+      "name": "Tomatochi",
       "date": "2017",
-      "summary": "A summer project that is similar to the childrens' game the Tamagotchi, Tomatochi project is an App that creates a personality for a real living plant using sensors",
+      "notes": "A summer project that is similar to the childrens' game the Tamagotchi, Tomatochi project is an App that creates a personality for a real living plant using sensors",
       "highlights": [
         "Arduino Uno",
         "MIT AppInventor",
