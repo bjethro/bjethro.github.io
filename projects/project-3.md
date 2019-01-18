@@ -39,7 +39,7 @@ A snipet of our code of displaying our gamescreen:
     // Set texture as a sprite
     sf::Sprite background(texture);
     
-<img class="ui center image" src="{{ site.baseurl }}/images/gamescreen.jpg">
+<img class="ui small floated squared image" src="../images/gamescreen.jpg">
 "gamescreen.jpg"
 
 
