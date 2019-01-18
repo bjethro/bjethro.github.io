@@ -44,5 +44,5 @@ A snipet of our code of displaying our gamescreen:
 
 
 
-Source: <a href="https://github.com/agasbarro36/EE205"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/agasbarro36/EE205"><i class="large github icon "></i>agasbarro36/EE205</a>
 
