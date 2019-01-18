@@ -21,8 +21,8 @@ Our final EE205 project involved working with a team of 4 individuals and using 
 A snipet of our code of displaying our gamescreen:
 
  
- std::cout << "Enter gamescreen running" << std::endl;
-    //Load Background picture and create texture object
+    std::cout << "Enter gamescreen running" << std::endl;
+      //Load Background picture and create texture object
     sf::Texture texture;
     if (!texture.loadFromFile("gamescreen.jpg"))
     {   //error message
@@ -30,13 +30,13 @@ A snipet of our code of displaying our gamescreen:
       }
 
       sf::Font Cammron;
-  if (!Cammron.loadFromFile("fonts/Cammron.ttf"))
-  {
+      if (!Cammron.loadFromFile("fonts/Cammron.ttf"))
+      {
       // error message
       std::cout << "ERROR: Cammron Font Unable to Load" << std::endl;
-  }
+      }
 
-    // Set texture as a sprite
+     // Set texture as a sprite
     sf::Sprite background(texture);
     
 <img class="ui small floated squared image" src="../images/gamescreen.jpg">
