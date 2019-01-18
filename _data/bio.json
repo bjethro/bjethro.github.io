@@ -79,6 +79,38 @@
       ]
     }
   ],
+  "Projects": [
+    {
+      "title": "Tomatochi",
+      "date": "2017",
+      "summary": "A summer project that is similar to the childrens' game the Tamagotchi, Tomatochi project is an App that creates a personality for a real living plant using sensors",
+      "highlights": [
+        "Arduino Uno",
+        "MIT AppInventor"
+        "C++"
+      ]
+    },
+    {
+      "title": "Hawaii Emergency Preparedness App",
+      "date": "2018",
+      "summary": "An emergency app for Hawaii to inform and educate individuals to be prepared when disaster strikes",
+      "highlights": [
+        "Andriod Studio",
+        "Java"
+        "GitHub"
+      ]
+    },
+    {
+      "title": "peeH",
+      "date": "2016-2017",
+      "summary": "A device attached to urinals to evaluate hydration levels based on urine's pH levels.",
+      "highlights": [
+        "Arduino Uno",
+        "C++"
+        "MIT AppInventor"
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "",
