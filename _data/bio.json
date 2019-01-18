@@ -86,7 +86,7 @@
       "summary": "A summer project that is similar to the childrens' game the Tamagotchi, Tomatochi project is an App that creates a personality for a real living plant using sensors",
       "highlights": [
         "Arduino Uno",
-        "MIT AppInventor"
+        "MIT AppInventor",
         "C++"
       ]
     },
@@ -96,7 +96,7 @@
       "summary": "An emergency app for Hawaii to inform and educate individuals to be prepared when disaster strikes",
       "highlights": [
         "Andriod Studio",
-        "Java"
+        "Java",
         "GitHub"
       ]
     },
@@ -106,7 +106,7 @@
       "summary": "A device attached to urinals to evaluate hydration levels based on urine's pH levels.",
       "highlights": [
         "Arduino Uno",
-        "C++"
+        "C++",
         "MIT AppInventor"
       ]
     }
