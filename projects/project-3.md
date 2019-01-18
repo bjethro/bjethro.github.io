@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/quiz.jpg
 title: Quiz Game
 permalink: projects/QuizGame
 # All dates must be YYYY-MM-DD format!
