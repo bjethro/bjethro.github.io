@@ -14,14 +14,14 @@ summary: My Sophomore Project that evaluated hydration levels based on urine sam
 ---
 
 
-Hydration isn't as much advertised around the world. Being hydrated is a key of a healthy life style. My partner and I thought of a invention that would be a simple reminder for people to stay hydrated and drink water. How did we do it? By sticking a pH sensor in to your neighborhood urinals! Your urine actually gives precious data on how your body is doing and knowing if your urine is acidic or basic. This data would be read by the pH sensor and sends the data via bluetooth to an Andriod Device which will tell you if you are hydrated or need to go see the doctor.
+ Hydration isn't as much advertised around the world. Being hydrated is a key of a healthy life style. My partner and I thought of a invention that would be a simple reminder for people to stay hydrated and drink water. How did we do it? By sticking a pH sensor in to your neighborhood urinals! Your urine actually gives precious data on how your body is doing and knowing if your urine is acidic or basic. This data would be read by the pH sensor and sends the data via bluetooth to an Andriod Device which will tell you if you are hydrated or need to go see the doctor.
 
 
 <img class="ui floated rounded image" src="../images/arduino.png">
-For this project, I was the lead programmer which job was to program the system both in Arduino and MITAppInventor. To begin coding, I had to learn how to code with Arduino and how MITAppInventor works with Arduino. From there, I started researching how a pH sensor works with Arduino and how to code it in order to be calibrated so it senses the right values based on the liquid that was exposed to it. After the coding for the Arduino was done, I hopped to MITInventor to create a simple app that will tell the user their dehydration levels based on their urine. We tested these levels with different types of liqiud that would represent a bad pH levels (liqiuid detergent being the low pH and sprite for high pH). This communication was possible with the help of a bluetooth device that was attached to the Arduino Board that would relay the message to the Andriod Device. 
+ For this project, I was the lead programmer which job was to program the system both in Arduino and MITAppInventor. To begin coding, I had to learn how to code with Arduino and how MITAppInventor works with Arduino. From there, I started researching how a pH sensor works with Arduino and how to code it in order to be calibrated so it senses the right values based on the liquid that was exposed to it. After the coding for the Arduino was done, I hopped to MITInventor to create a simple app that will tell the user their dehydration levels based on their urine. We tested these levels with different types of liqiud that would represent a bad pH levels (liqiuid detergent being the low pH and sprite for high pH). This communication was possible with the help of a bluetooth device that was attached to the Arduino Board that would relay the message to the Andriod Device. 
 
 
-Here is some code that illustrates how we read values from the pH sensor:
+ Here is some code that illustrates how we read values from the pH sensor:
 <img class="ui medium right floated rounded image" src="../images/mitappinv.png">
 <img class="ui medium left floated rounded image" src="../images/code.png">
 
