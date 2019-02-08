@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: Coding Standards
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-24
+labels:
+  - ESlint
+  - Coding Style
+---
+
+Many people have their different ways of coding and especially how they write it. Some people like it a certain way so it might be easier for them to read the code and like to be organized. As you learn more coding languages in the future, having a solid structure on how you code can really impress your career choice as it is essential for your code to be read.
+
+## Jet Style of Coding
+
+Eslint has this style that they want you to remember by putting spaces on every single detail you write. Overall, it is a good thing to get a habit of writing as spacing out every detail. As it is more spaced out, it is easier to read and easy to tell what variables or numbers are being initialized or used. For me, this is the coding style I already do as I really want to make my life easier to read. But I really don't like how ESlint's style of coding want to make sure you HAVE to put a space. For example, I always get an error after create a function and ESlint decides he wants to be a space nazi and tells you need a space between a function and the curly bracket.
+
+```
+  function spacenazi(space){} // will get an error 
+  
+  function spacenazi(spacepls) {} // this is how you are suppose to write it
+```  
+
+I know I sound like a naggingfive year old complaining why I should put cereal before milk but like I feel like this is an uncessary rule that we need to follow in ESlint. Being organized and creating 
+
+## ESlint in General
+I'm not saying that ESlint is a pain to code, but I am saying that it isn't really the style for me. Adding so much steps in order for the code to work or even compile waste too much time and trying to debug it some more. I know in a long run it will make my code much cleaner and much easier to read, but my current coding style is very similar to ESlint and I feel like it easy to read. The only difference is that there's less restrictions.
