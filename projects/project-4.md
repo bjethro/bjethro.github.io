@@ -10,7 +10,9 @@ labels:
   - React
   - Meteor
   - ESlint
-  - Meteor
+  - Github
+  - MongoDB
+  - Javascript
 summary: Final Group Project for ICS 314 (Software Engineering I)
 ---
 
