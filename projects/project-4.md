@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/quiz.jpg
-title: Quiz Game
-permalink: projects/QuizGame
+image: images/BoujeeFoodie.png
+title: BoujeeFoodie
+permalink: projects/BoujeeFoodie
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
